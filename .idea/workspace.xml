@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ffc98d-c2e5-4c42-a8ff-6f3805f3e0cd" name="Default Changelist" comment="enter valid files" />
+    <list default="true" id="87ffc98d-c2e5-4c42-a8ff-6f3805f3e0cd" name="Default Changelist" comment="enter valid files">
+      <change afterPath="$PROJECT_DIR$/routes/sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,19 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/courses.route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/sample.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
+            <state relative-caret-position="306">
               <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
@@ -65,12 +73,13 @@
         <option value="$PROJECT_DIR$/client/src/components/StudentView.js" />
         <option value="$PROJECT_DIR$/client/src/components/LecturerView.js" />
         <option value="$PROJECT_DIR$/client/src/routes.js" />
+        <option value="$PROJECT_DIR$/routes/sample.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-100" />
-    <option name="y" value="70" />
+    <option name="x" value="-9" />
+    <option name="y" value="103" />
     <option name="width" value="1040" />
     <option name="height" value="740" />
   </component>
@@ -80,8 +89,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AF_Final_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AF_Final_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AF_Final_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AF_Final_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,6 +177,7 @@
       <workItem from="1561122315979" duration="965000" />
       <workItem from="1561123489288" duration="1313000" />
       <workItem from="1561125820913" duration="552000" />
+      <workItem from="1561127550621" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="enter valid files">
       <created>1560527748023</created>
@@ -184,7 +209,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73015000" />
+    <option name="totallyTimeSpent" value="73057000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,15 +221,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15699404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15668663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Log Viewer" />
-      <window_info anchor="bottom" id="SOQL Query" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5171849" />
@@ -216,6 +239,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.5226629" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.22854291" side_tool="true" weight="0.64811784" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.7714571" visible="true" weight="0.23731588" />
+      <window_info anchor="bottom" id="Log Viewer" order="11" />
+      <window_info anchor="bottom" id="SOQL Query" order="12" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,19 +370,22 @@
         <state relative-caret-position="-407" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/courses.route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
+        <state relative-caret-position="306">
           <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/courses.route.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/routes/sample.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
