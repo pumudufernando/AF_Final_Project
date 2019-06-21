@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ffc98d-c2e5-4c42-a8ff-6f3805f3e0cd" name="Default Changelist" comment="enter valid files" />
+    <list default="true" id="87ffc98d-c2e5-4c42-a8ff-6f3805f3e0cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/routes/www.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,13 +16,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/courses.route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/www.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -65,6 +73,7 @@
         <option value="$PROJECT_DIR$/client/src/components/StudentView.js" />
         <option value="$PROJECT_DIR$/client/src/components/LecturerView.js" />
         <option value="$PROJECT_DIR$/client/src/routes.js" />
+        <option value="$PROJECT_DIR$/routes/www.js" />
       </list>
     </option>
   </component>
@@ -80,7 +89,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AF_Final_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="af_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -152,7 +171,7 @@
       <workItem from="1560895355456" duration="26273000" />
       <workItem from="1561122315979" duration="965000" />
       <workItem from="1561123489288" duration="1313000" />
-      <workItem from="1561125820913" duration="552000" />
+      <workItem from="1561125820913" duration="3768000" />
     </task>
     <task id="LOCAL-00001" summary="enter valid files">
       <created>1560527748023</created>
@@ -175,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561123079474</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="enter valid files commit">
+      <created>1561126646603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561126646603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -184,7 +210,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73015000" />
+    <option name="totallyTimeSpent" value="76231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,7 +272,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="enter valid files" />
-    <option name="LAST_COMMIT_MESSAGE" value="enter valid files" />
+    <MESSAGE value="enter valid files commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="enter valid files commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client/README.md">
@@ -353,10 +380,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/courses.route.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/www.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
